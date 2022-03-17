@@ -3,22 +3,21 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://vk.com/mocarello" target="_blank">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
   <a href="https://t.me/Apple_Bobby">
-   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:yablokovwork@gmail.com">
     <img src="https://img.shields.io/badge/google-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
   </a>
-  <a href="https://soundcloud.com/bobbybl0ck">
-    <img src="https://img.shields.io/badge/soundcloud-blue?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud Badge"/>
+  <a href="https://vk.com/mocarello" target="_blank">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://twitter.com/Apple_Bobby">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
   </a>
- 
+  <a href="https://soundcloud.com/bobbybl0ck">
+    <img src="https://img.shields.io/badge/soundcloud-blue?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud Badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/VladimirYablokov=your-github-VladimirYablokov&style=flat-square&color=blue" alt=""/>
 <h1 align="center">
@@ -31,7 +30,6 @@
 
 ---
 
- 
 ### :man_technologist: About Me :
 I am a front-end Developer from Kostroma!
 - :telescope: I’m working as a Software Engineer and contributing to frontend and little bit backend for building web applications.
