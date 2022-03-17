@@ -33,7 +33,7 @@
 
  
 ### :man_technologist: About Me :
-I am a frontend Developer from Kostroma!
+I am a front-end Developer from Kostroma!
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
