@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://vk.com/mocarello" target="_blank">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge" target="_blank"/>
+  <a href="https://vk.com/mocarello">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://t.me/Apple_Bobby">
    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
