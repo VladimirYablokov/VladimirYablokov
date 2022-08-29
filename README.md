@@ -26,7 +26,14 @@
 </h1>
 <div align="center">
   <p>My pages:</p>
+  https://vladimiryablokov.github.io/Portfolio/
   https://vladimiryablokov.github.io/BuhOne_project/
+  https://vladimiryablokov.github.io/velozavr_hyuk/
+  https://vladimiryablokov.github.io/add-delete-find_cards_with_localStorage/
+  https://vladimiryablokov.github.io/To-do_list/
+  https://vladimiryablokov.github.io/gallery-Aivasovski/
+  https://vladimiryablokov.github.io/JS_Gallery_classic-slider/
+  https://vladimiryablokov.github.io/JS_Sort_Search/
 </div>
 
 ---
