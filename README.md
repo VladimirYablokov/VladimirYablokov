@@ -28,7 +28,6 @@
   <p>My pages:</p>
   https://vladimiryablokov.github.io/Portfolio/<br>
   https://vladimiryablokov.github.io/BuhOne_project/<br>
-  https://vladimiryablokov.github.io/velozavr_hyuk/<br>
   https://vladimiryablokov.github.io/add-delete-find_cards_with_localStorage/<br>
   https://vladimiryablokov.github.io/To-do_list/<br>
   https://vladimiryablokov.github.io/gallery-Aivasovski/<br>
