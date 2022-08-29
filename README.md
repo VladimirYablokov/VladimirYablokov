@@ -27,13 +27,13 @@
 <div align="center">
   <p>My pages:</p>
   https://vladimiryablokov.github.io/Portfolio/<br>
-  https://vladimiryablokov.github.io/BuhOne_project/
-  https://vladimiryablokov.github.io/velozavr_hyuk/
-  https://vladimiryablokov.github.io/add-delete-find_cards_with_localStorage/
-  https://vladimiryablokov.github.io/To-do_list/
-  https://vladimiryablokov.github.io/gallery-Aivasovski/
-  https://vladimiryablokov.github.io/JS_Gallery_classic-slider/
-  https://vladimiryablokov.github.io/JS_Sort_Search/
+  https://vladimiryablokov.github.io/BuhOne_project/<br>
+  https://vladimiryablokov.github.io/velozavr_hyuk/<br>
+  https://vladimiryablokov.github.io/add-delete-find_cards_with_localStorage/<br>
+  https://vladimiryablokov.github.io/To-do_list/<br>
+  https://vladimiryablokov.github.io/gallery-Aivasovski/<br>
+  https://vladimiryablokov.github.io/JS_Gallery_classic-slider/<br>
+  https://vladimiryablokov.github.io/JS_Sort_Search/<br>
 </div>
 
 ---
