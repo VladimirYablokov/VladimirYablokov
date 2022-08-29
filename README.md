@@ -26,6 +26,7 @@
 </h1>
 <div align="center">
   <p>My pages:</p>
+  https://vladimiryablokov.github.io/BuhOne_project/
 </div>
 
 ---
