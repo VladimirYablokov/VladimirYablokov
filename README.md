@@ -34,7 +34,7 @@
   https://vladimiryablokov.github.io/JS_Gallery_classic-slider/<br>
   https://vladimiryablokov.github.io/JS_Sort_Search/<br>
   
-  https://vladimiryablokov.github.io/MYEL_JEW_Proj1/
+  https://vladimiryablokov.github.io/Myel-prototype/
 </div>
 
 ---
