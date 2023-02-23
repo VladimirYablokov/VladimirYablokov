@@ -70,9 +70,9 @@ I am a front-end Developer from Kostroma!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VladimirYablokov&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/VladimirYablkov) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirYablokov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/VladimirYablkov) 
 
 
 
