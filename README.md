@@ -9,15 +9,6 @@
   <a href="mailto:yablokovwork@gmail.com">
     <img src="https://img.shields.io/badge/google-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
   </a>
-  <a href="https://vk.com/mocarello" target="_blank">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
-  <a href="https://twitter.com/Apple_Bobby">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
-  </a>
-  <a href="https://soundcloud.com/bobbybl0ck">
-    <img src="https://img.shields.io/badge/soundcloud-blue?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/VladimirYablokov=your-github-VladimirYablokov&style=flat-square&color=blue" alt=""/>
 <h1 align="center">
