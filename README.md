@@ -17,9 +17,12 @@
 </h1>
 <div align="center">
   <p>My React pages:</p>
+  
 https://vladimiryablokov.github.io/Events_proj_react/
+https://vladimiryablokov.github.io/Language_proj_react/
   
   <p>My pages:</p>
+  
 <!--   https://vladimiryablokov.github.io/Portfolio/<br> -->
   https://vladimiryablokov.github.io/BuhOne_project/<br>
   https://vladimiryablokov.github.io/add-delete-find_cards_with_localStorage/<br>
