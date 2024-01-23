@@ -16,6 +16,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
+  <p>My React pages:</p>
+https://vladimiryablokov.github.io/Events_proj_react/
+  
   <p>My pages:</p>
 <!--   https://vladimiryablokov.github.io/Portfolio/<br> -->
   https://vladimiryablokov.github.io/BuhOne_project/<br>
