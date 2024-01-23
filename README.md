@@ -17,9 +17,9 @@
 </h1>
 <div align="center">
   <p>My React pages:</p>
-  
-https://vladimiryablokov.github.io/Events_proj_react/
-https://vladimiryablokov.github.io/Language_proj_react/
+    
+  https://vladimiryablokov.github.io/Events_proj_react/
+  https://vladimiryablokov.github.io/Language_proj_react/
   
   <p>My pages:</p>
   
